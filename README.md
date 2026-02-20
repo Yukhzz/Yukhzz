@@ -16,7 +16,7 @@ How to reach me: **[intricatebeings@gmail.com]**
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-green?logo=node.js&logoColor=white" />
 </p>
 
 
