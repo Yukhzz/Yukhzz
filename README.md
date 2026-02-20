@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm [Yukhzz]
 
-<!--
-**Yukhzz/Yukhzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about [Data analysis,Programming].
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m currently a **[Learner/Student]**
+I’m learning **[CS]**
+I’m looking to collaborate on **[]**
+How to reach me: **[intricatebeings@gmail.com]**
+
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white" />
+</p>
+
+
+⭐️ From [Yukhzz](https://github.com/Yukhzz)
